@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - JPush (2.1.8)
+  - JSONModel (1.2.0)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.10)
+  - ReactiveCocoa (4.2.1):
+    - Result (~> 2.0)
+  - Result (2.1.2)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - JPush
+  - JSONModel
+  - MBProgressHUD
+  - MJRefresh
+  - ReactiveCocoa
+  - SDWebImage
+  - UMengSocialCOM (~> 5.2.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  JPush: 2d1286494eae216433f6d7709b2721565b4babc9
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: bb72948c985914b0b5cecac573a2c69a8915fb02
+  ReactiveCocoa: 5a42745f11ea236f405bb9ce5e97c5e3b23562dd
+  Result: 6e722d4a66b1408680dbfcdf51c0b1c4b706316a
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+PODFILE CHECKSUM: bdee0296212436949ef9014bb72e979967d68b98
+
+COCOAPODS: 1.0.1

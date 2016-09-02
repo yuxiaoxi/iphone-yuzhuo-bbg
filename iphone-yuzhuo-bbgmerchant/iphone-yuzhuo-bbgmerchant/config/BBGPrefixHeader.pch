@@ -1,0 +1,26 @@
+//
+//  BBGPrefixHeader.pch
+//  iphone-yuzhuo-bbgmerchant
+//
+//  Created by yuzhuo on 16/8/23.
+//  Copyright © 2016年 bianbiangou. All rights reserved.
+//
+
+#ifndef BBGPrefixHeader_pch
+#define BBGPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "BBGAppDelegate+RootController.h"
+#import "OrderListController.h"
+#import "ProductListController.h"
+#import "MessageRecordController.h"
+#import "SelfCenterController.h"
+#import "RDVTabBarController.h"
+#import "RDVTabBarItem.h"
+#import "BBGConfig.h"
+#import "IrisStyle.h"
+#import "BBGLoginController.h"
+
+#endif /* BBGPrefixHeader_pch */

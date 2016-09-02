@@ -1,0 +1,6 @@
+framework module Pods_iphone_yuzhuo_bbgmerchant {
+  umbrella header "Pods-iphone-yuzhuo-bbgmerchant-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+use_frameworks!
+
+target 'iphone-yuzhuo-bbgmerchant' do
+
+pod 'AFNetworking'
+
+pod 'SDWebImage'
+
+pod 'JSONModel'
+
+pod 'MBProgressHUD'
+
+pod 'MJRefresh'
+
+pod 'JPush'
+
+pod 'UMengSocialCOM', '~> 5.2.1'
+
+pod 'ReactiveCocoa'
+
+end
